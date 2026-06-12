@@ -2,7 +2,7 @@
 
 **Recommendation Systems for Personalized Content Discovery**  
 Netflix Prize Dataset · Collaborative Filtering · Matrix Factorization · Neural CF
-Vaaman Sonathi, Ronith Netalkar, EPh 3rd year
+**Vaaman Sonathi, Ronith Netalkar, EPh 3rd year**
 ---
 
 ## Project Structure
