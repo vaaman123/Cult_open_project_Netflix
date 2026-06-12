@@ -1,5 +1,6 @@
 # 🎬 Netflix Prize — Recommendation System
 **Vaaman Sonathi- 23123049, Ronith Netalkar- 23123032**
+---
 **Recommendation Systems for Personalized Content Discovery**  
 Netflix Prize Dataset · Collaborative Filtering · Matrix Factorization · Neural CF
 
