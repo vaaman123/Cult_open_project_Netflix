@@ -1,0 +1,39 @@
+# .gitignore for Netflix Recommendation System
+
+# Data files (large, keep local)
+*.txt
+!README*.txt
+!probe.txt
+!qualifying.txt
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter & IPython
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ML & Output files (optional - only if too large)
+# Uncomment to exclude model files from git (keep in .gitkeep instead)
+# results/models/*.pt
+# results/models/*.pkl
+
+# Temporary files
+*.tmp
+*.log
+.env
